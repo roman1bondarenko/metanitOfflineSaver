@@ -1,0 +1,8 @@
+{
+  "name": "metanitSaver",
+  "version": "0.0.1",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    "request": "latest"
+  }
+}
